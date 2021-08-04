@@ -1,1 +1,4 @@
-# Digital-Process
+# CMPUT 206 - Introduction to Digital Image Processing
+
+An introduction to basic digital image processing theory, and the tools that make advanced image manipulation possible for ordinary users. Image processing is important in many applications: editing and processing photographs, special effects for movies, drawing animated characters starting with photographs, analyzing and enhancing images captured by the Mars Rover or the Hubble telescope, and detecting suspects from surveillance cameras. Image processing concepts are introduced using tools like Photoshop and GIMP. Exposure to simple image processing programming with Java and MATLAB. This course is preparation for more advanced courses in the Digital Media area. Prerequisites: Any 100-level Computing Science course, plus knowledge of first-year level MATH, STAT; and introductory Java, C, or similar programming experience; or consent of the instructor or SCI 100. Open to students in the Faculty of Arts, Engineering and Sciences; others require consent of the instructor.
+
